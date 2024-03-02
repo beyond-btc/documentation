@@ -1,0 +1,16 @@
+{
+  "index_name": "beyondDocs",
+  "start_urls": ["https://docs.beyond.tech/"],
+  "stop_urls": [],
+  "sitemap_urls": ["https://docs.beyond.tech/sitemap.xml"],
+  "sitemap_alternate_links": true,
+  "selectors": {
+    "lvl0": "header h1",
+    "lvl1": ".markdown h1",
+    "lvl2": ".markdown h2",
+    "lvl3": ".markdown h3",
+    "lvl4": ".markdown h4",
+    "lvl5": ".markdown h5",
+    "text": ".markdown p, .markdown li"
+  }
+}
