@@ -6,55 +6,42 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
+const math = require("remark-math")
+const katex = require("rehype-katex")
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: "₿eyond",
+  tagline: "The first-ever native bridge for digital assets *on* Bitcoin.",
+  favicon: "img/favicon.ico",
 
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  url: "https://docs.beyond.tech",
+  baseUrl: "/",
+  organizationName: "beyond-btc",
+  projectName: "documentation",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "throw",
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          routeBasePath: "/",
+          sidebarPath: "./sidebars.js",
+          exclude: ["**.ignore.md"],
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       }),
     ],
@@ -63,79 +50,118 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
-      navbar: {
-        title: 'My Site',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+      image: "img/beyond-banner.png",
+
+      algolia: {
+        appId: "XXXXXXXXX", // The application ID provided by Algolia
+        apiKey: "YYYYYYYYYYYYYYYYYYYYYY", // Public API key: it is safe to commit it
+        indexName: "beyondDocs",
+        placeholder: "What would you like to find?",
+        contextualSearch: true, // Optional: see doc section below
+        externalUrlRegex: "beyond\\.tech", // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        searchParameters: {}, // Optional: Algolia search parameters
+        searchPagePath: "search", // Optional: path for search page that enabled by default (`false` to disable it)
+      },
+
+      metadata: [
+        {
+          name: "keywords",
+          content:
+            "Bitcoin, bridge, DeFi, blockchain, crypto, stablecoin, NFT, token, BRC20, Ordinal, inscription",
         },
+        { name: "og:url", content: "https://docs.beyond.tech/" },
+        {
+          name: "og:image",
+          content: "img/beyond-banner.png",
+        },
+        { name: "og:site_name", content: "Beyond" },
+      ],
+
+      colorMode: {
+        defaultMode: "dark",
+      },
+
+      navbar: {
+        title: "₿eyond",
+        logo: {
+          alt: "₿eyond Logo",
+          src: "img/logo.svg",
+        },
+        hideOnScroll: true,
+        // style: 'dark', // 'dark' or 'primary'
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+            label: "Home",
+            to: "https://beyond.tech",
+            position: "left",
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            label: "App",
+            to: "https://app.beyond.tech",
+            position: "left",
+          },
+          {
+            label: "Blog",
+            to: "https://blog.beyond.tech",
+            position: "left",
+          },
+          {
+            href: "https://x.com/beyond__tech",
+            position: "right",
+            className: "navbar-twitter-link",
+            "aria-label": "𝕏 (Twitter)",
+          },
+          {
+            href: "https://connect.beyond.tech",
+            position: "right",
+            className: "navbar-discord-link",
+            "aria-label": "Discord",
+          },
+          {
+            href: "https://github.com/beyond-btc",
+            position: "right",
+            className: "navbar-github-link",
+            "aria-label": "GitHub",
           },
         ],
       },
+
       footer: {
-        style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: "Protocol",
             items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
+              { label: "Bridge", to: "https://app.beyond.tech" },
+              { label: "Analytics", to: "https://app.beyond.tech/info" },
             ],
           },
           {
-            title: 'Community',
+            title: "Community",
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+              { label: "Homepage", to: "https://beyond.tech" },
+              { label: "Blog", to: "https://blog.beyond.tech" },
+              { label: "Media", to: "https://beyond.tech/media" },
+              { label: "Contact", to: "/community/contact" },
             ],
           },
           {
-            title: 'More',
+            title: "Developers",
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+              // { label: "Technical Docs", to: "/devs/overview" },
+              { label: "Deployments", to: "/devs/deployments" },
+              // { label: "Beyond SDK", to: "/devs/sdk" },
+              { label: "GitHub", to: "https://github.com/beyond-btc" },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        // copyright: `<i>© ${new Date().getFullYear()} Beyond Tech</i>`,
       },
+
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
     }),
-};
+}
 
 export default config;
