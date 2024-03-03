@@ -78,7 +78,14 @@ const config = {
       ],
 
       colorMode: {
-        defaultMode: "dark",
+        defaultMode: "light",
+      },
+
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: true,
+        },
       },
 
       navbar: {
@@ -118,6 +125,12 @@ const config = {
             "aria-label": "Discord",
           },
           {
+            href: "https://t.me/beyond_labs",
+            position: "right",
+            className: "navbar-telegram-link",
+            "aria-label": "Telegram",
+          },
+          {
             href: "https://github.com/beyond-btc",
             position: "right",
             className: "navbar-github-link",
@@ -129,14 +142,14 @@ const config = {
       footer: {
         links: [
           {
-            title: "Protocol",
+            title: "PROTOCOL",
             items: [
               { label: "Bridge", to: "https://app.beyond.tech" },
               { label: "Analytics", to: "https://app.beyond.tech/info" },
             ],
           },
           {
-            title: "Community",
+            title: "COMMUNITY",
             items: [
               { label: "Homepage", to: "https://beyond.tech" },
               { label: "Blog", to: "https://blog.beyond.tech" },
@@ -145,11 +158,11 @@ const config = {
             ],
           },
           {
-            title: "Developers",
+            title: "DEVS",
             items: [
-              // { label: "Technical Docs", to: "/devs/overview" },
-              { label: "Deployments", to: "/devs/deployments" },
-              // { label: "Beyond SDK", to: "/devs/sdk" },
+              // { label: "Technical Docs", to: "/dev/overview" },
+              { label: "Deployments", to: "/dev/deployments" },
+              // { label: "Beyond SDK", to: "/dev/sdk" },
               { label: "GitHub", to: "https://github.com/beyond-btc" },
             ],
           },
