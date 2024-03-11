@@ -113,6 +113,16 @@ const config = {
             position: "left",
           },
           {
+            label: "Info",
+            to: "https://app.beyond.tech/info",
+            position: "left",
+          },
+          {
+            label: "Leaderboard",
+            to: "https://app.beyond.tech/leaderboard",
+            position: "left",
+          },
+          {
             href: "https://x.com/beyond__tech",
             position: "right",
             className: "navbar-twitter-link",
