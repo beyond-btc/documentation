@@ -221,3 +221,33 @@ footer .footer__links a {
 [data-theme='dark'] footer .footer__links a {
   color: #ffffff;
 }
+
+/* Set custom color for INFO admonitions, and <details> component */
+html[data-theme="light"] .alert--info {
+  --ifm-alert-background-color: #FF600030;
+  --ifm-alert-background-color-highlight: #FF600040;
+  --ifm-alert-border-color: #FF6000;
+}
+html[data-theme="dark"] .alert--info {
+  --ifm-alert-background-color: #000000;
+  --ifm-alert-background-color-highlight: #FF600060;
+  --ifm-alert-border-color: #FF6000;
+}
+
+/* Set custom color for NOTE admonitions */
+html[data-theme="light"] .alert--secondary {
+  --ifm-alert-background-color: #f0f7ff;
+  --ifm-alert-background-color-highlight: #adcbfc70;
+  --ifm-alert-border-color: #adcbfc;
+}
+html[data-theme="dark"] .alert--secondary {
+  --ifm-alert-background-color: #002b5c;
+  --ifm-alert-background-color-highlight: #2179d180;
+  --ifm-alert-border-color: #2179d1;
+}
+
+/* DO NOT DELETE: placeholder code for TIP, CAUTION, and DANGER admonitions
+.alert--success { }
+.alert--warning { }
+.alert--danger { }
+*/
