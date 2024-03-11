@@ -1,11 +1,11 @@
 ---
-sidebar_position: 2
-title: Bitcoin Evolution
+sidebar_position: 3
+title: History
 ---
 
-# The Bitcoin Evolution
+# Our Journey
 
-## The Genesis and Classic Era (2008-2022)
+## Bitcoin Genesis and Classic Era: 2008-2022
 
 In 2008, [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) launched Bitcoin, the first and most durable blockchain, as a [peer-to-peer electronic cash system](https://bitcoin.org/bitcoin.pdf), enabling direct online payments without intermediaries and birthing the world's inaugural decentralized digital currency.
 
@@ -53,11 +53,11 @@ void Shutdown(void* parg)
 
 </details>
 
-## The Dawn of Inscriptions (2023)
+## The Dawn of Inscriptions: 2023
 
 In December 2022, the Bitcoin ecosystem embraced a revolutionary concept: [inscriptions](https://unchained.com/blog/bitcoin-inscriptions-ordinals/). Imagine you could take a tiny piece of Bitcoin, not just any piece, but a very specific one, and mark it with a digital sticker. These stickers could be anything: a picture, a piece of text, a snippet of a song, or even a small program. This is exactly what inscriptions allow you to do. They let users attach a wide array of digital information directly onto Bitcoin’s smallest units, called [satoshis](https://www.investopedia.com/terms/s/satoshi.asp), similar to how you might stick a unique label onto individual grains of sand.
 
-But how do we make sure each of these "grains of sand" is unique? This is where [ordinals](https://unchained.com/blog/bitcoin-inscriptions-ordinals/) come into play. Ordinals are like giving every single satoshi, or grain, a serial number. Just like how every dollar bill has a unique number, every satoshi gets its own identifier, making it distinguishable from all others. This numbering system makes it possible to track, trade, and collect these satoshis, especially those with special stickers (inscriptions) attached to them.
+But how do we make sure each of these "grains of sand" is unique? This is where [ordinals](https://unchained.com/blog/bitcoin-inscriptions-ordinals) come into play. Ordinals are like giving every single satoshi, or grain, a serial number. Just like how every dollar bill has a unique number, every satoshi gets its own identifier, making it distinguishable from all others. This numbering system makes it possible to track, trade, and collect these satoshis, especially those with special stickers (inscriptions) attached to them.
 
 :::info Why are inscriptions and Ordinals so simple but yet profound?
 
@@ -67,9 +67,9 @@ Ordinals allow us to identify and track each satoshi, while inscriptions let us 
 
 Through this innovation, Bitcoin expanded beyond digital gold and stepped into a realm where it could securely host a diverse range of digital assets, each with its own identity and story, all while maintaining the integrity and security that the Bitcoin network is known for.
 
-## Enabling the Bitcoin On-Chain Economy
+## Today: Enabling the Bitcoin On-Chain Economy
 
-Looking ahead, [₿eyond](https://www.beyond.tech/) spearheads into a revolutionary era, driving the shift towards a [Bitcoin-powered on-chain economy](https://app.beyond.tech/).
+Looking ahead, [₿eyond](https://beyond.tech) spearheads into a revolutionary era, driving the shift towards a [Bitcoin-powered on-chain economy](https://app.beyond.tech/).
 
 ₿eyond's mission is resolute: to solidify Bitcoin as the most secure and credible gateway to decentralized finance (DeFi). The dawn of 2024 saw [Bitcoin ETF listings](https://www.justetf.com/en/how-to/invest-in-bitcoin.html) and a surge in institutional interest, highlighting Bitcoin's unmatched capacity for fostering a decentralized, interoperable, and compliant financial landscape.
 

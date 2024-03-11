@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
-title: Overview
+title: Deployments
 ---
 
 import DocCardList from '@theme/DocCardList';
 
-# Title <!-- <span class="no-gradient">🟠</span> -->
+# Deployments <!-- <span class="no-gradient">🟠</span> -->
 
 <DocCardList />
