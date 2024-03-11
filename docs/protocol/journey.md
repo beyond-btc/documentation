@@ -14,7 +14,7 @@ Over the years, its security, anchored by the [proof-of-work mechanism](https://
 <div class="section-summary">
 </div>
 <details>
-<summary>👈 Click here to explore the foundational lines from Bitcoin's initial main.cpp file, version 0.1.0.</summary>
+<summary>👈 Click here to explore the foundational lines from Bitcoin's initial _`main.cpp`_ file, version `0.1.0`.</summary>
 
 ```jsx
 #include "headers.h"

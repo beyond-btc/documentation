@@ -6,6 +6,8 @@ slug: "/"
 
 # Welcome to ₿eyond!
 
+> _NOTE: Lead in this 1st paragraph with some Bitcoin cold facts, like $1.4 Trillion market capitalization, etc hehehehe_
+
 [₿eyond](https://www.beyond.tech/), the [leading security-first native bridge](https://www.beyond.tech/), redefines excellence by seamlessly integrating your selected digital assets on [Bitcoin](https://bitcoin.org/bitcoin.pdf) — the world's most decentralized and esteemed blockchain, boasting a [trillion-dollar market](https://coinmarketcap.com/currencies/bitcoin/).
 
 ![beyondlogo](/img/bitcoinwide.png)

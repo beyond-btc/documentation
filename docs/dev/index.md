@@ -5,6 +5,6 @@ title: Developers
 
 import DocCardList from '@theme/DocCardList';
 
-# Title <span class="no-gradient">🟠</span>
+# Developers <!-- <span class="no-gradient">🟠</span> -->
 
 <DocCardList />

@@ -5,6 +5,6 @@ title: Guides
 
 import DocCardList from '@theme/DocCardList';
 
-# Guides <span class="no-gradient">🟠</span>
+# Guides <!-- <span class="no-gradient">🟠</span> -->
 
 <DocCardList />
