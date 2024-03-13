@@ -47,23 +47,23 @@ function CardLink({ item }) {
   )
 }
 
-export default function DownloadCardList(items) {
-  items = [
-    {
-      label: "Logos",
-      description: "Folder containing .svg and .png files",
-      href: "/download/brand-assets.zip",
-      docId: "community/socials",
-      unlisted: false,
-    },
-    {
-      label: "Banners",
-      description: "Folder containing .svg and .png files",
-      href: "/download/brand-assets.zip",
-      docId: "community/brand",
-      unlisted: false,
-    },
-  ]
+const brandItems = [
+  {
+    label: "Logos",
+    description: "Folder containing .svg and .png files",
+    href: "/download/brand-assets.zip",
+  },
+  {
+    label: "Banners",
+    description: "Folder containing .svg and .png files",
+    href: "/download/brand-assets.zip",
+  },
+]
+
+export default function DownloadCardList({ type }) {
+  let items
+  if (type === "brand") items = brandItems
+  else throw new Error("Invalid type specified for DownloadCardList")
 
   return (
     <section className="row">

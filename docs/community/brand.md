@@ -14,9 +14,4 @@ When mentioning ₿eyond on social media or on your website, please use the logo
 - **Color**: [`#ff6000`](https://coolors.co/000000-ff6000-ff6000-ff6000-ffffff)
 <!-- - **Fonts**: [Jet Brains Mono](https://jetbrains.com/lp/mono) & [Lorem Ipsum](https://lipsum.com) -->
 
-<DownloadCardList
-  title="Your Title Here"
-  description="Your description here."
-  fileName="YourBrandAssets.zip"
-  fileUrl="/path/to/YourBrandAssets.zip"
-/>
+<DownloadCardList type="brand" />
