@@ -5,34 +5,40 @@ title: FAQs
 
 # Frequently Asked Questions (FAQs)
 
-> _Magnus Note: these are all 100% GPT-4 generated with no modifications, we'll need to edit + delete + create new ones + add hyperlinks surely, we can do this last once the whole documentation is ready imo :)_
+:::info Discover More with AI
 
-## What is ₿eyond?
-₿eyond is the pioneering native bridge for digital assets on the Bitcoin Layer 1, enabling users to bridge their favorite assets into and out of Bitcoin L1 in their preferred token inscription standard (BR20, CBR20, ACR20, Ordinals, etc.).
+New to [Beyond](https://www.beyond.tech/) or seeking deeper insights? Explore [Beyond.tech](s), our proprietary GPT-mode AI assistant. Available for text or voice queries through the [OpenAI mobile app](https://openai.com/blog/introducing-the-chatgpt-app-for-ios), it provides comprehensive insights into all things Beyond.
 
-## How does the ₿eyond bridge work?
-The ₿eyond bridge operates by leveraging specific inscription standards on Bitcoin's Layer 1 to facilitate the secure and efficient transfer of digital assets across different blockchain networks.
+For a more personal connection, immerse yourself in our vibrant community on Discord and [connect directly with our team](https://connect.beyond.tech/).
 
-## What makes ₿eyond unique?
-₿eyond stands out as the first-ever protocol to offer native bridging capabilities directly on Bitcoin's Layer 1, supporting a variety of token standards and ensuring high security and interoperability.
+:::
 
-## Which token standards are supported by ₿eyond?
-₿eyond supports multiple token standards including BR20, CBR20, ACR20, and Ordinals, providing users with flexibility in how they bridge assets.
+## What is Beyond?
 
-## Is ₿eyond secure?
-₿eyond prioritizes security, implementing robust protocols and practices to safeguard users' assets during the bridging process. However, as with any blockchain technology, users should exercise due diligence and understand the risks involved.
+[Beyond](https://www.beyond.tech/) is the leading native Bitcoin L1 bridge, built and designed to provide the necessary infrastructure to give rise to thousands of decentralized applications inside the Bitcoin network.
 
-## Can I contribute to the ₿eyond project?
-Yes, ₿eyond welcomes contributions from developers, enthusiasts, and supporters. You can contribute by coding, providing feedback, or participating in community discussions. Check out our GitHub or community forums to get started.
+## Our Vision?
 
-## How do transaction fees work on ₿eyond?
-Transaction fees on ₿eyond are determined by several factors including network congestion and the specific token standards used. Fees are transparently outlined in the user interface prior to initiating a transaction.
+Bitcoin's unmatched decentralization and global recognition have positioned it as the [cornerstone of all blockchains](https://coinmarketcap.com/). However, the [lack of leading-edge native bitcoin bridging solutions](https://defillama.com/bridges) has led to a widening gap, resulting in Bitcoin's disassociation from DeFi. Consequently, Bitcoin has been overshadowed by the rapid evolution of DeFi ecosystems and their shift towards omnichain interoperability and multichain dynamics.
 
-## What are the benefits of using ₿eyond for my digital assets?
-Using ₿eyond allows for seamless, secure, and flexible movement of digital assets across blockchain networks, leveraging Bitcoin's robust Layer 1 for enhanced security and interoperability.
+In the mission of spearheading [Bitcoin's next era](https://en.wikipedia.org/wiki/History_of_bitcoin), Beyond, in partnership with renowned allies, is dedicated to reinstating Bitcoin at the forefront of blockchain innovation and navigating towards a [multi-Trillion-dollar DeFi future](https://blockworks.co/news/bitcoin-defi-future) by leveraging battle-tested bridging technology — secured by the most reputable cybersecurity firms — thus establishing Bitcoin as the premier layer-1 for decentralized finance.
 
-## Where can I find technical documentation on ₿eyond?
-Technical documentation can be found on our official website and GitHub repository, providing detailed information on how to use ₿eyond, integrate services, and understand the underlying technology.
+## DeFi on Bitcoin L1?
 
-## How can I get support if I encounter issues with ₿eyond?
-For support, please visit our Help Center or contact our support team through the official website. You can also join our community forums for assistance from the ₿eyond community.
+Indeed. With the dawn of [inscriptions](https://unchained.com/blog/bitcoin-inscriptions-ordinals/) in December 2022, Bitcoin transcended its role as digital gold. This breakthrough allows for the secure and unique identification of digital assets on the Bitcoin network, heralding a new age of digital asset interaction and creativity within Bitcoin’s robust security framework.
+
+## What are Inscriptions and Ordinals?
+
+- Inscriptions: Imagine you could take a tiny piece of Bitcoin, not just any piece, but a very specific one, and mark it with a digital sticker. These stickers could be anything: a picture, a piece of text, a snippet of a song, or even a small program. This is exactly what inscriptions allow you to do. They let users attach a wide array of digital information directly onto Bitcoin’s smallest units, called [satoshis](https://www.investopedia.com/terms/s/satoshi.asp), similar to how you might stick a unique label onto individual grains of sand.
+
+- Ordinals: But how do we make sure each of these "grains of sand" is unique? This is where [ordinals](https://unchained.com/blog/bitcoin-inscriptions-ordinals) come into play. Ordinals are like giving every single satoshi, or grain, a serial number. Just like how every dollar bill has a unique number, every satoshi gets its own identifier, making it distinguishable from all others. This numbering system makes it possible to track, trade, and collect these satoshis, especially those with special stickers (inscriptions) attached to them.
+
+:::info Why are inscriptions and Ordinals so simple but yet profound?
+
+Ordinals allow us to identify and track each satoshi, while inscriptions let us attach meaningful data to them. Together, they transform these satoshis from mere fractions of a Bitcoin into unique digital artifacts or collectibles, much like how a physical coin can be minted with a special design to commemorate an event. This novel use of Bitcoin’s infrastructure introduced a whole new dimension to the network, leveraging its security and decentralization to support a burgeoning ecosystem of digital ownership and creativity, without altering Bitcoin’s foundational principles.
+
+:::
+
+## Why Choose Beyond?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
