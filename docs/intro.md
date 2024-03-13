@@ -25,9 +25,10 @@ In the mission of spearheading [Bitcoin's next era](https://en.wikipedia.org/wik
 ## Getting Started
 
 In this documentation you will find a comprehensive guide to the ₿eyond ecosystem, including:
-- [Quick-Start Tutorials](/docs/tutorials), guiding you step-by-step through the process of bridging your assets.
-- [Protocol Overview](/docs/protocol), touching on all relevant concepts from security to vision and technical architecture.
-- [Quick-Start Tutorials](/docs/tutorials), guiding you step-by-step through the process of bridging your assets.
+- [Quick-Start Tutorials](/tutorials), guiding you step-by-step through the process of bridging your assets.
+- [Protocol Overview](/protocol), touching on all relevant concepts from security to vision and technical architecture.
+- [Community](/community) and [Developers](/dev) areas, with resources to get involved and contribute to the ecosystem.
+- [FAQs](/faq), where you will find answers to the most common questions about the protocol.
 
 ---
 

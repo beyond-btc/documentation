@@ -7,7 +7,7 @@ title: Introduction
 
 Integrating with ₿eyond is easy and fast. Once we will go live on testnet this summer 2024, we will publish here a simple SDK that you can use to painlessly integrate with the protocol.
 
-<!-- You will also be able to find our [canonical token addresses](/docs/dev/tokens.md — for which we intend to set the 'external token address' standard in Bitcoin and BTCFi — and all our [contract deployments](/docs/dev/contracts.md in this `Developers` section. -->
+<!-- You will also be able to find our [canonical token addresses](/dev/tokens.md — for which we intend to set the 'external token address' standard in Bitcoin and BTCFi — and all our [contract deployments](/dev/contracts.md in this `Developers` section. -->
 
 ```typescript title="/beyond/sdk.js"
 
