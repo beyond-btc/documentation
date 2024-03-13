@@ -11,7 +11,7 @@ const katex = require("rehype-katex")
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "₿eyond",
+  title: "Beyond",
   tagline: "The first-ever native bridge for digital assets *on* Bitcoin.",
   favicon: "img/favicon.ico",
 
@@ -91,7 +91,7 @@ const config = {
       navbar: {
         title: "₿eyond",
         logo: {
-          alt: "₿eyond Logo",
+          alt: "Beyond Logo",
           src: "img/logo.svg",
         },
         hideOnScroll: true,

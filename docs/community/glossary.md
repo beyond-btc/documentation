@@ -5,7 +5,7 @@ title: Glossary
 
 # Glossary
 
-Here we include an index of terms commonly used around the ₿eyond ecosystem, listed in alphabetical order. For more general terminology, we can also suggest [CoinMarketCap's crypto glossary](https://coinmarketcap.com/alexandria/glossary).
+Here we include an index of terms commonly used around the Beyond ecosystem, listed in alphabetical order. For more general terminology, we can also suggest [CoinMarketCap's crypto glossary](https://coinmarketcap.com/alexandria/glossary).
 
 ## APR
 

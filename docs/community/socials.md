@@ -5,7 +5,7 @@ title: Socials
 
 # Join the ₿eyond Ecosystem
 
-Connect with the vibrant ₿eyond community and stay informed about the latest news through our official social media channels. If English is not your first language, we have dedicated communities (Español, हिन्दी, 中文...) on Discord that will be happy to welcome you!
+Connect with the vibrant Beyond community and stay informed about the latest news through our official social media channels. If English is not your first language, we have dedicated communities (Español, हिन्दी, 中文...) on Discord that will be happy to welcome you!
 
 :::note OFFICIAL LINKS
 
@@ -43,7 +43,7 @@ You can also submit a ticket in our `#support` channel on [Discord](https://join
 Need assistance? Check our [Tutorials](/tutorials) or the [FAQs](/faq.md). For specific questions, reach out on [Discord](https://join.beyond.tech) or [Telegram](https://t.me/beyond_labs). Feel free to tag our team or moderators for help, though often you will find quicker and helpful responses from fellow community members.
 
 :::warning
-Beware of impersonators: our admins won't DM you first. If someone claims to represent ₿eyond's customer support, please block and report them. Remember to avoid clicking unsolicited links.
+Beware of impersonators: our admins won't DM you first. If someone claims to represent Beyond's customer support, please block and report them. Remember to avoid clicking unsolicited links.
 :::
 
 
