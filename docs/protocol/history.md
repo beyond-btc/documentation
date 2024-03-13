@@ -55,7 +55,7 @@ void Shutdown(void* parg)
 
 ## The Dawn of Inscriptions: 2023
 
-In December 2022, the Bitcoin ecosystem embraced a revolutionary concept: [inscriptions](https://unchained.com/blog/bitcoin-inscriptions-ordinals/). Imagine you could take a tiny piece of Bitcoin, not just any piece, but a very specific one, and mark it with a digital sticker. These stickers could be anything: a picture, a piece of text, a snippet of a song, or even a small program. This is exactly what inscriptions allow you to do. They let users attach a wide array of digital information directly onto Bitcoin’s smallest units, called [satoshis](https://www.investopedia.com/terms/s/satoshi.asp), similar to how you might stick a unique label onto individual grains of sand.
+In December 2022, the Bitcoin ecosystem embraced a revolutionary concept: [inscriptions](https://unchained.com/blog/bitcoin-inscriptions-ordinals. Imagine you could take a tiny piece of Bitcoin, not just any piece, but a very specific one, and mark it with a digital sticker. These stickers could be anything: a picture, a piece of text, a snippet of a song, or even a small program. This is exactly what inscriptions allow you to do. They let users attach a wide array of digital information directly onto Bitcoin’s smallest units, called [satoshis](https://investopedia.com/terms/s/satoshi.asp), similar to how you might stick a unique label onto individual grains of sand.
 
 But how do we make sure each of these "grains of sand" is unique? This is where [ordinals](https://unchained.com/blog/bitcoin-inscriptions-ordinals) come into play. Ordinals are like giving every single satoshi, or grain, a serial number. Just like how every dollar bill has a unique number, every satoshi gets its own identifier, making it distinguishable from all others. This numbering system makes it possible to track, trade, and collect these satoshis, especially those with special stickers (inscriptions) attached to them.
 
@@ -69,8 +69,8 @@ Through this innovation, Bitcoin expanded beyond digital gold and stepped into a
 
 ## Today: Enabling the Bitcoin On-Chain Economy
 
-Looking ahead, [₿eyond](https://beyond.tech) spearheads into a revolutionary era, driving the shift towards a [Bitcoin-powered on-chain economy](https://app.beyond.tech/).
+Looking ahead, [Beyond](https://beyond.tech) spearheads into a revolutionary era, driving the shift towards a [Bitcoin-powered on-chain economy](https://app.beyond.tech.
 
-₿eyond's mission is resolute: to solidify Bitcoin as the most secure and credible gateway to decentralized finance (DeFi). The dawn of 2024 saw [Bitcoin ETF listings](https://www.justetf.com/en/how-to/invest-in-bitcoin.html) and a surge in institutional interest, highlighting Bitcoin's unmatched capacity for fostering a decentralized, interoperable, and compliant financial landscape.
+Beyond's mission is resolute: to solidify Bitcoin as the most secure and credible gateway to decentralized finance (DeFi). The dawn of 2024 saw [Bitcoin ETF listings](https://justetf.com/en/how-to/invest-in-bitcoin.html) and a surge in institutional interest, highlighting Bitcoin's unmatched capacity for fostering a decentralized, interoperable, and compliant financial landscape.
 
 This evolution from a digital store of value to a holistic on-chain economy exemplifies Bitcoin's versatility and endurance, heralding a future where financial innovation and security go hand in hand.
