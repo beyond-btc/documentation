@@ -22,10 +22,14 @@ Bitcoin's unmatched decentralization and global recognition have positioned it a
 
 In the mission of spearheading [Bitcoin's next era](https://en.wikipedia.org/wiki/History_of_bitcoin), ₿eyond, in partnership with renowned allies, is dedicated to reinstating Bitcoin at the forefront of blockchain innovation and navigating towards a [multi-Trillion-dollar DeFi future](https://blockworks.co/news/bitcoin-defi-future) by leveraging battle-tested bridging technology — secured by the most reputable cybersecurity firms — thus establishing Bitcoin as the premier layer-1 for decentralized finance.
 
-## Spearheading towards ₿eyond `V2`
+## Getting Started
 
-Our journey with ₿eyond is only getting started. With a seasoned team continuously pushing the boundaries of cryptography, cybersecurity, and web3 innovations, ₿eyond V2 is poised to introduce groundbreaking opportunities — marking our unwavering commitment alongside our partners to not only lead but [redefine the future of Bitcoin](https://www.ignasdefi.com/p/ordinals-and-btc-defi-start-here).
+In this documentation you will find a comprehensive guide to the ₿eyond ecosystem, including:
+- [Quick-Start Tutorials](/tutorials), guiding you step-by-step through the process of bridging your assets.
+- [Protocol Overview](/protocol), touching on all relevant concepts from security to vision and technical architecture.
+- [Community](/community) and [Developers](/dev) areas, with resources to get involved and contribute to the ecosystem.
+- [FAQs](/faq), where you will find answers to the most common questions about the protocol.
 
 ---
 
-_Welcome to [₿eyond](https://beyond.tech)!_
+_Once again, welcome to [₿eyond](https://beyond.tech)!_

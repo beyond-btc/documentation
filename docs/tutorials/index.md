@@ -1,10 +1,10 @@
 ---
 sidebar_position: 3
-title: Guides
+title: Tutorials
 ---
 
 import DocCardList from '@theme/DocCardList';
 
-# Guides <!-- <span class="no-gradient">🟠</span> -->
+# Tutorials <!-- <span class="no-gradient">🟠</span> -->
 
 <DocCardList />

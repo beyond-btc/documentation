@@ -36,8 +36,8 @@ const config = {
           routeBasePath: "/",
           sidebarPath: "./sidebars.js",
           exclude: ["**.ignore.md"],
-          remarkPlugins: [math],
-          rehypePlugins: [katex],
+          // remarkPlugins: [math],  // Note: causes formatting issues with "$" signs, forcing us to escape them with backslash like "\$"
+          // rehypePlugins: [katex], // Note: causes formatting issues with "$" signs, forcing us to escape them with backslash like "\$"
         },
         blog: false,
         theme: {
@@ -155,24 +155,26 @@ const config = {
             title: "PROTOCOL",
             items: [
               { label: "Bridge", to: "https://app.beyond.tech" },
+              { label: "Homepage", to: "https://beyond.tech" },
               { label: "Analytics", to: "https://app.beyond.tech/info" },
+              { label: "Airdrop", to: "https://beyond.tech/leaderboard" },
             ],
           },
           {
             title: "COMMUNITY",
             items: [
-              { label: "Homepage", to: "https://beyond.tech" },
-              { label: "Blog", to: "https://blog.beyond.tech" },
-              { label: "Media", to: "https://beyond.tech/media" },
-              { label: "Contact", to: "/community/contact" },
+              { label: "Socials", to: "/community/socials" },
+              { label: "Newsletter", to: "https://blog.beyond.tech/subscribe" },
+              { label: "Media", to: "/community/brand" },
+              { label: "Glossary", to: "/community/glossary" },
             ],
           },
           {
-            title: "DEVS",
+            title: "DEVELOPERS",
             items: [
-              // { label: "Technical Docs", to: "/dev/overview" },
+              { label: "Tech", to: "/dev/intro" },
               { label: "Deployments", to: "/dev/deployments" },
-              // { label: "Beyond SDK", to: "/dev/sdk" },
+              // { label: "SDK", to: "/dev/sdk" },
               { label: "GitHub", to: "https://github.com/beyond-btc" },
             ],
           },
