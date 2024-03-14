@@ -9,23 +9,23 @@ title: FAQs
 
 New to [Beyond](https://beyond.tech) or seeking deeper insights? Meet the [Beyond Intern](https://intern.beyond.tech), our proprietary GPT-mode AI assistant. Available for text or voice queries through the [OpenAI mobile app](https://openai.com/blog/introducing-the-chatgpt-app-for-ios), it provides comprehensive insights into all things Beyond.
 
-For a more personal connection, immerse yourself in our vibrant community on Discord and [connect directly with our team](https://connect.beyond.tech.
+For a more personal connection, immerse yourself in our vibrant community on Discord and [connect directly with our team](https://connect.beyond.tech).
 
 :::
 
 ## What is Beyond?
 
-[Beyond](https://beyond.tech is the leading native Bitcoin L1 bridge, built and designed to provide the necessary infrastructure to give rise to thousands of decentralized applications inside the Bitcoin network.
+[Beyond](https://beyond.tech) is the leading native Bitcoin L1 bridge, built and designed to provide the necessary infrastructure to give rise to thousands of decentralized applications inside the Bitcoin network.
 
 ## Our Vision?
 
-Bitcoin's unmatched decentralization and global recognition have positioned it as the [cornerstone of all blockchains](https://coinmarketcap.com. However, the [lack of leading-edge native bitcoin bridging solutions](https://defillama.com/bridges) has led to a widening gap, resulting in Bitcoin's disassociation from DeFi. Consequently, Bitcoin has been overshadowed by the rapid evolution of DeFi ecosystems and their shift towards omnichain interoperability and multichain dynamics.
+Bitcoin's unmatched decentralization and global recognition have positioned it as the [cornerstone of all blockchains](https://coinmarketcap.com). However, the [lack of leading-edge native bitcoin bridging solutions](https://defillama.com/bridges) has led to a widening gap, resulting in Bitcoin's disassociation from DeFi. Consequently, Bitcoin has been overshadowed by the rapid evolution of DeFi ecosystems and their shift towards omnichain interoperability and multichain dynamics.
 
 In the mission of spearheading [Bitcoin's next era](https://en.wikipedia.org/wiki/History_of_bitcoin), Beyond, in partnership with renowned allies, is dedicated to reinstating Bitcoin at the forefront of blockchain innovation and navigating towards a [multi-Trillion-dollar DeFi future](https://blockworks.co/news/bitcoin-defi-future) by leveraging battle-tested bridging technology — secured by the most reputable cybersecurity firms — thus establishing Bitcoin as the premier layer-1 for decentralized finance.
 
 ## DeFi on Bitcoin L1?
 
-Indeed. With the dawn of [inscriptions](https://unchained.com/blog/bitcoin-inscriptions-ordinals in December 2022, Bitcoin transcended its role as digital gold. This breakthrough allows for the secure and unique identification of digital assets on the Bitcoin network, heralding a new age of digital asset interaction and creativity within Bitcoin’s robust security framework.
+Indeed. With the dawn of [inscriptions](https://unchained.com/blog/bitcoin-inscriptions-ordinals) in December 2022, Bitcoin transcended its role as digital gold. This breakthrough allows for the secure and unique identification of digital assets on the Bitcoin network, heralding a new age of digital asset interaction and creativity within Bitcoin’s robust security framework.
 
 ## What are Inscriptions and Ordinals?
 
