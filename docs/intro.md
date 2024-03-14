@@ -12,7 +12,7 @@ slug: "/"
 
 [Beyond](https://beyond.tech) is the leading [native Bitcoin L1 bridge](https://app.beyond.tech), built and designed to provide the necessary infrastructure to give rise to thousands of decentralized applications *inside* the Bitcoin network.
 
-The protocol prioritizes security to bring the largest digital assets (such as USDT, ETH or SOL) into [Bitcoin](https://bitcoin.org/bitcoin.pdf) itself — the world's most decentralized and secure blockchain, boasting a largely untapped [+$1.4 Trillion (with T) USD market valuation](https://coinmarketcap.com/currencies/bitcoin), where economic activity *on* the network itself represents only [~0.2% of the total value](https://defillama.com/chain/Bitcoin) at the present time.
+Beyond prioritizes security to bring the largest digital assets (such as USDT, ETH or SOL) into [Bitcoin](https://bitcoin.org/bitcoin.pdf) itself — the world's most decentralized and secure blockchain, boasting an untapped [+$1.4 Trillion (with T) USD market valuation](https://coinmarketcap.com/currencies/bitcoin) where economic activity *on* the network itself represents [only 0.2% of the total value](https://defillama.com/chain/Bitcoin) at present.
 
 ![Intro Banner](/img/beyond-banner.png)
 
@@ -28,7 +28,7 @@ In this documentation you will find a comprehensive guide to the Beyond ecosyste
 - [Quick-Start Tutorials](/tutorials), guiding you step-by-step through the process of bridging your assets.
 - [Protocol Overview](/protocol), touching on all relevant concepts from security to vision and technical architecture.
 - [Community](/community) and [Developers](/dev) areas, with resources to get involved and contribute to the ecosystem.
-- [FAQs](/faq), where you will find answers to the most common questions about the protocol.
+- [FAQs](/faq.md), where you will find answers to the most common questions about the protocol.
 
 ---
 

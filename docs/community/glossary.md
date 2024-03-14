@@ -13,7 +13,7 @@ Annual Percentage Rate (APR) denotes the yearly interest rate without compoundin
 
 ## APY
 
-Annual Percentage Yield (APY), akin to [APR](/onboarding/glossary#apr) but incorporates compounding, thereby increasing the yield over time due to the interest itself earning additional interest.
+Annual Percentage Yield (APY), akin to [APR](#apr) but incorporates compounding, thereby increasing the yield over time due to the interest itself earning additional interest.
 
 ## Blockchain
 
