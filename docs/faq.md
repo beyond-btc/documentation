@@ -7,7 +7,7 @@ title: FAQs
 
 :::info Discover More with AI
 
-New to [Beyond](https://beyond.tech or seeking deeper insights? Explore [Beyond.tech](s), our proprietary GPT-mode AI assistant. Available for text or voice queries through the [OpenAI mobile app](https://openai.com/blog/introducing-the-chatgpt-app-for-ios), it provides comprehensive insights into all things Beyond.
+New to [Beyond](https://beyond.tech) or seeking deeper insights? Meet the [Beyond Intern](https://intern.beyond.tech), our proprietary GPT-mode AI assistant. Available for text or voice queries through the [OpenAI mobile app](https://openai.com/blog/introducing-the-chatgpt-app-for-ios), it provides comprehensive insights into all things Beyond.
 
 For a more personal connection, immerse yourself in our vibrant community on Discord and [connect directly with our team](https://connect.beyond.tech.
 

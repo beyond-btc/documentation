@@ -113,6 +113,11 @@ const config = {
             position: "left",
           },
           {
+            label: "GPT",
+            to: "https://intern.beyond.tech",
+            position: "left",
+          },
+          {
             label: "Info",
             to: "https://app.beyond.tech/info",
             position: "left",
@@ -157,7 +162,8 @@ const config = {
               { label: "Bridge", to: "https://app.beyond.tech" },
               { label: "Homepage", to: "https://beyond.tech" },
               { label: "Analytics", to: "https://app.beyond.tech/info" },
-              { label: "Airdrop", to: "https://beyond.tech/leaderboard" },
+              { label: "Airdrop", to: "https://app.beyond.tech/leaderboard" },
+              { label: "AI", to: "https://intern.beyond.tech" },
             ],
           },
           {

@@ -59,7 +59,7 @@ In December 2022, the Bitcoin ecosystem embraced a revolutionary concept: [inscr
 
 But how do we make sure each of these "grains of sand" is unique? This is where [ordinals](https://unchained.com/blog/bitcoin-inscriptions-ordinals) come into play. Ordinals are like giving every single satoshi, or grain, a serial number. Just like how every dollar bill has a unique number, every satoshi gets its own identifier, making it distinguishable from all others. This numbering system makes it possible to track, trade, and collect these satoshis, especially those with special stickers (inscriptions) attached to them.
 
-:::info Why are inscriptions and Ordinals so simple but yet profound?
+:::tip Why are inscriptions and Ordinals so simple but yet profound?
 
 Ordinals allow us to identify and track each satoshi, while inscriptions let us attach meaningful data to them. Together, they transform these satoshis from mere fractions of a Bitcoin into unique digital artifacts or collectibles, much like how a physical coin can be minted with a special design to commemorate an event. This novel use of Bitcoin’s infrastructure introduced a whole new dimension to the network, leveraging its security and decentralization to support a burgeoning ecosystem of digital ownership and creativity, without altering Bitcoin’s foundational principles.
 
@@ -67,9 +67,9 @@ Ordinals allow us to identify and track each satoshi, while inscriptions let us 
 
 Through this innovation, Bitcoin expanded beyond digital gold and stepped into a realm where it could securely host a diverse range of digital assets, each with its own identity and story, all while maintaining the integrity and security that the Bitcoin network is known for.
 
-## Today: Enabling the Bitcoin On-Chain Economy
+## _Today:_ Enabling the Bitcoin On-Chain Economy
 
-Looking ahead, [Beyond](https://beyond.tech) spearheads into a revolutionary era, driving the shift towards a [Bitcoin-powered on-chain economy](https://app.beyond.tech.
+Looking ahead, [Beyond](https://beyond.tech) spearheads into a revolutionary era, driving the shift towards a [Bitcoin-powered on-chain economy](https://app.beyond.tech).
 
 Beyond's mission is resolute: to solidify Bitcoin as the most secure and credible gateway to decentralized finance (DeFi). The dawn of 2024 saw [Bitcoin ETF listings](https://justetf.com/en/how-to/invest-in-bitcoin.html) and a surge in institutional interest, highlighting Bitcoin's unmatched capacity for fostering a decentralized, interoperable, and compliant financial landscape.
 
