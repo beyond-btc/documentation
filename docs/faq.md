@@ -5,6 +5,8 @@ title: FAQs
 
 # Frequently Asked Questions (FAQs)
 
+> TODO: Magnus to give the final edit to these Qs
+
 :::info Discover More with AI
 
 New to [Beyond](https://beyond.tech) or seeking deeper insights? Meet the [Beyond Intern](https://intern.beyond.tech), our proprietary GPT-mode AI assistant. Available for text or voice queries through the [OpenAI mobile app](https://openai.com/blog/introducing-the-chatgpt-app-for-ios), it provides comprehensive insights into all things Beyond.
