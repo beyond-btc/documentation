@@ -11,7 +11,7 @@ const katex = require("rehype-katex")
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "₿eyond",
+  title: "Beyond",
   tagline: "The first-ever native bridge for digital assets *on* Bitcoin.",
   favicon: "img/favicon.ico",
 
@@ -84,14 +84,14 @@ const config = {
       docs: {
         sidebar: {
           hideable: true,
-          autoCollapseCategories: true,
+          autoCollapseCategories: false,
         },
       },
 
       navbar: {
         title: "₿eyond",
         logo: {
-          alt: "₿eyond Logo",
+          alt: "Beyond Logo",
           src: "img/logo.svg",
         },
         hideOnScroll: true,
@@ -110,6 +110,11 @@ const config = {
           {
             label: "Blog",
             to: "https://blog.beyond.tech",
+            position: "left",
+          },
+          {
+            label: "GPT",
+            to: "https://intern.beyond.tech",
             position: "left",
           },
           {
@@ -157,7 +162,8 @@ const config = {
               { label: "Bridge", to: "https://app.beyond.tech" },
               { label: "Homepage", to: "https://beyond.tech" },
               { label: "Analytics", to: "https://app.beyond.tech/info" },
-              { label: "Airdrop", to: "https://beyond.tech/leaderboard" },
+              { label: "Airdrop", to: "https://app.beyond.tech/leaderboard" },
+              { label: "AI", to: "https://intern.beyond.tech" },
             ],
           },
           {

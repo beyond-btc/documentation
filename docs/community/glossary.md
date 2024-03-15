@@ -5,7 +5,7 @@ title: Glossary
 
 # Glossary
 
-Here we include an index of terms commonly used around the ₿eyond ecosystem, listed in alphabetical order. For more general terminology, we can also suggest [CoinMarketCap's crypto glossary](https://coinmarketcap.com/alexandria/glossary).
+Here we include an index of terms commonly used around the Beyond ecosystem, listed in alphabetical order. For more general terminology, we can also suggest [CoinMarketCap's crypto glossary](https://coinmarketcap.com/alexandria/glossary).
 
 ## APR
 
@@ -13,7 +13,7 @@ Annual Percentage Rate (APR) denotes the yearly interest rate without compoundin
 
 ## APY
 
-Annual Percentage Yield (APY), akin to [APR](/onboarding/glossary#apr) but incorporates compounding, thereby increasing the yield over time due to the interest itself earning additional interest.
+Annual Percentage Yield (APY), akin to [APR](#apr) but incorporates compounding, thereby increasing the yield over time due to the interest itself earning additional interest.
 
 ## Blockchain
 
