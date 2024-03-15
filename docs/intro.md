@@ -4,7 +4,7 @@ title: Welcome
 slug: "/"
 ---
 
-# Welcome to ₿eyond!
+# Welcome to ₿eyond
 
 > _Enabling the Bitcoin On-Chain Economy._
 
@@ -18,16 +18,17 @@ Beyond prioritizes security to bring the largest digital assets (such as USDT, E
 
 ## Going ₿eyond `Digital Gold`
 
-Bitcoin's unmatched decentralization and global recognition have positioned it as the [cornerstone of all blockchains](https://coinmarketcap.com). However, the [lack of leading-edge native bitcoin bridging solutions](https://defillama.com/bridges) has led to a widening gap, resulting in Bitcoin's disassociation from DeFi. Consequently, Bitcoin has been overshadowed by the rapid evolution of DeFi ecosystems and their shift towards omnichain interoperability and multichain dynamics.
+Bitcoin's unparalleled decentralization and global recognition have positioned it as the [leading driving force](https://coinmarketcap.com) of the entire blockchain industry for over a decade. However, the lack of infrastructure to support a real on-chain economy has resulted in Bitcoin being [overshadowed by newer blockchains](https://defillama.com/chains) with advanced interoperability and decentralized Finance (DeFi) capabilities—until now, that is, with significant game-changing breakthroughs achieved in 2024.
 
-In the mission of spearheading [Bitcoin's next era](https://en.wikipedia.org/wiki/History_of_bitcoin), Beyond, in partnership with renowned allies, is dedicated to reinstating Bitcoin at the forefront of blockchain innovation and navigating towards a [multi-Trillion-dollar DeFi future](https://blockworks.co/news/bitcoin-defi-future) by leveraging battle-tested bridging technology — secured by the most reputable cybersecurity firms — thus establishing Bitcoin as the premier layer-1 for decentralized finance.
+Beyond exists to build a [multi-Trillion-dollar future](https://blockworks.co/news/bitcoin-defi-future) where Bitcoin becomes the powerhouse for DeFi on a global scale. Our team and community are _beyond_ excited to play a crucial role in enabling this evolution from just a store of value (_"digital gold"_), to a fully functional Bitcoin-powered on-chain economy. [Join us](/community/socials)!
 
 ## Getting Started
 
 In this documentation you will find a comprehensive guide to the Beyond ecosystem, including:
 - [Quick-Start Tutorials](/tutorials), guiding you step-by-step through the process of bridging your assets.
-- [Protocol Overview](/protocol), touching on all relevant concepts from security to vision and technical architecture.
+- [Protocol Overview](/protocol), touching on all relevant technical concepts from security to architecture.
 - [Community](/community) and [Developers](/dev) areas, with resources to get involved and contribute to the ecosystem.
+- [Why Beyond](/rationale.md), analyzing our historical context in numbers, and the necessity for a Bitcoin L1 bridge.
 - [FAQs](/faq.md), where you will find answers to the most common questions about the protocol.
 
 ---
