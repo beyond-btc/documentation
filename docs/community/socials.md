@@ -12,8 +12,8 @@ Connect with the vibrant Beyond community and stay informed about the latest new
 - 𝕏 (Twitter): [x.com/beyond__tech](https://x.com/beyond__tech)
 - Discord: [join.beyond.tech](https://join.beyond.tech)<!-- , Leaderboard: [mee6.xyz/beyond](https://mee6.xyz/beyond) -->
 - Telegram: [t.me/beyond_labs](https://t.me/beyond_labs), Announcements: [t.me/beyond_announcements](https://t.me/beyond_announcements)
-- CoinMarketCap: [coinmarketcap.com/community/profile/beyond_tech](https://coinmarketcap.com/community/profile/beyond_tech)
 - GitHub: [github.com/beyond_btc](https://github.com/beyond_btc)
+<!-- - CoinMarketCap: [coinmarketcap.com/community/profile/beyond_tech](https://coinmarketcap.com/community/profile/beyond_tech) -->
 <!-- - LinkedIn: [linkedin.com/company/₿eyond](https://linkedin.com/company/₿eyond) -->
 <!-- - Registry: [npmjs.com/org/beyond-tech](https://npmjs.com/org/beyond-tech) -->
 <!-- - Rewards: [zealy.io/cw/beyond](https://zealy.io/cw/beyond) -->
@@ -24,8 +24,8 @@ Connect with the vibrant Beyond community and stay informed about the latest new
 - Analytics: [app.beyond.tech/info](https://app.beyond.tech/info)
 - Leaderboard: [app.beyond.tech/leaderboard](https://app.beyond.tech/leaderboard)
 - Blog: [blog.beyond.tech](https://blog.beyond.tech), Newsletter: [blog.beyond.tech/subscribe](https://blog.beyond.tech/subscribe)
-- Documentation: [docs.beyond.tech](https://docs.beyond.tech)
 - Media: [docs.beyond.tech/community/brand](/community/brand)
+<!-- - Documentation: [docs.beyond.tech](https://docs.beyond.tech) -->
 
 :::
 

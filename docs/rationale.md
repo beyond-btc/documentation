@@ -1,9 +1,11 @@
 ---
-sidebar_position: 3
-title: History
+sidebar_position: 9
+title: Why Beyond
 ---
 
-# Our Journey
+# Our Journey, Past and Future
+
+In this article, we first take a look at Bitcoin's historical context, exploring both its successes and remaining challenges, before revealing how Beyond is set to drive the next evolution of the Bitcoin ecosystem. Feel free to skip directly to the [`Vision` section](#today-enabling-the-bitcoin-on-chain-economy) if preferred!
 
 ## Bitcoin Genesis and Classic Era: 2008-2022
 
@@ -50,7 +52,7 @@ void Shutdown(void* parg)
 
 ## The Dawn of Inscriptions: 2023
 
-In 2023, the Bitcoin ecosystem embraced a revolutionary concept: [Bitcoin inscriptions](https://unchained.com/blog/bitcoin-inscriptions-ordinals). This game-changing innovation elevated Bitcoin from merely a store of value (SoV) to a fully functional and programmable financial ecosystem (known as [BTCFi](https://www.ignasdefi.com/p/ordinals-and-btc-defi-start-here)), capable of supporting applications across many fields from [decentralized finance](https://www.coinbase.com/learn/crypto-basics/what-is-defi) to [real-world asset](https://www.binance.com/en/research/analysis/real-world-assets-state-of-the-market) tokenization, digital art, and _beyond._
+In 2023, the Bitcoin ecosystem embraced a revolutionary concept: [inscriptions](https://unchained.com/blog/bitcoin-inscriptions-ordinals). This game-changing innovation elevated Bitcoin from merely a store of value (SoV) to a fully functional and programmable financial ecosystem (known as [BTCFi](https://www.ignasdefi.com/p/ordinals-and-btc-defi-start-here)), capable of supporting applications across many fields from [decentralized finance](https://www.coinbase.com/learn/crypto-basics/what-is-defi) to [real-world asset](https://www.binance.com/en/research/analysis/real-world-assets-state-of-the-market) tokenization, digital art, and _beyond._
 
 By embedding data directly into Bitcoin's transactions, inscriptions have unlocked a new layer of utility on the Bitcoin network itself, in addition to the massively popular [$BTC](https://coinmarketcap.com/currencies/bitcoin) token. This leap forward not only diversifies Bitcoin's use cases but also strengthens its position as a foundational pillar in the broader blockchain space, showcasing its potential to be as versatile and programmable as other modern protocols.
 
@@ -64,10 +66,17 @@ Ordinals allow us to identify and track each satoshi, while inscriptions let us 
 
 :::
 
-## Today: Enabling the Bitcoin On-Chain Economy
+## _Today:_ Enabling the Bitcoin On-Chain Economy
 
-Looking ahead, [Beyond](https://beyond.tech) is leading the way into a new paradigm, driving the transition from a _classic era_ of limited utility towards a [Bitcoin-powered on-chain global economy](/protocol/vision).
+Looking ahead, [Beyond](https://beyond.tech) is leading the way into a new paradigm, driving the transition from a _classic era_ of limited utility towards a [Bitcoin-powered on-chain global economy](https://blockworks.co/news/bitcoin-defi-future).
 
-Beyond's mission is clear: to establish Bitcoin as the most reliable and secure gateway to decentralized finance (DeFi) [at a global scale](https://defillama.com/chains). The beginning of 2024 marked a significant milestone with the introduction of [Bitcoin ETF listings](https://justetf.com/en/how-to/invest-in-bitcoin.html) and a surge in institutional interest, highlighting Bitcoin's unmatched potential to foster a decentralized, interoperable, and compliant financial ecosystem.
+> _TODO: Nate =>_ Share bullet points here with specific numbers, e.g:
+> - the [+$1.4 Trillion market cap](https://coinmarketcap.com/currencies/bitcoin) of $BTC, but with economic activity *on* the Bitcoin network itself representing [only 0.2% of the total value](https://defillama.com/chain/Bitcoin) (MASSIVE opportunity to 'catch up' in this sense)
+> - the market caps of USDT, ETH, SOL, etc -- compare to other metrics too like TVL, _and maybe also Volume?_
+> - the outflows of BTC into other networks, which could be brought back as DeFi TVL in Bitcoin as inflows
+> - any other relevant numbers that support our product and rationale
+> - MAYBE, IF NOT ENOUGH BULLET POINTS: hint at "Beyond's edge" with unique Beyond stuff, like our `V2`? integrations in the pipeline? partnerships? NOTE: since our "edge" is going to be mostly technical though (multiple Bitcoin standards, better security, better UX, Aave integration for active locking of assets with passive yield...), I would not expand on it here, but rather in the "Protocol > Overview" article.
+
+Within this context, Beyond's mission is clear: to establish Bitcoin as the most reliable and secure gateway to decentralized finance (DeFi) [at a global scale](https://defillama.com/chains). The beginning of 2024 marked a significant milestone with the introduction of [Bitcoin ETF listings](https://justetf.com/en/how-to/invest-in-bitcoin.html) and a surge in institutional interest, highlighting Bitcoin's unmatched potential to foster a decentralized, interoperable, and compliant financial ecosystem.
 
 This evolution from a digital store of value to a holistic on-chain economy deeply excites our team and community, as we build a future where financial innovation, inclusivity, decentralization, and security go hand in hand.
