@@ -28,8 +28,8 @@ In this documentation you will find a comprehensive guide to the Beyond ecosyste
 - [Quick-Start Tutorials](/tutorials), guiding you step-by-step through the process of bridging your assets.
 - [Protocol Overview](/protocol), touching on all relevant technical concepts from security to architecture.
 - [Community](/community) and [Developers](/dev) areas, with resources to get involved and contribute to the ecosystem.
-- [Why Beyond](/why-beyond.md), analyzing our historical context in numbers, and the necessity for a Bitcoin L1 bridge.
-- [FAQs](/faq.md), where you will find answers to the most common questions about the protocol.
+- [Why Beyond](/why-beyond), analyzing our historical context in numbers, and the necessity for a Bitcoin L1 bridge.
+- [FAQs](/faq), where you will find answers to the most common questions about the protocol.
 
 ---
 

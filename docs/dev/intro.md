@@ -7,7 +7,7 @@ title: Introduction
 
 Integrating with Beyond is easy and fast. Once live on testnet this summer 2024, a simple SDK will be published here to painlessly integrate your app with Beyond.
 
-<!-- You will also be able to find our [canonical token addresses](/dev/tokens.md — for which we intend to set the 'external token address' standard in Bitcoin and BTCFi — and all our [contract deployments](/dev/contracts.md in this `Developers` section. -->
+<!-- You will also be able to find our [canonical token addresses](/dev/tokens — for which we intend to set the 'external token address' standard in Bitcoin and BTCFi — and all our [contract deployments](/dev/contracts in this `Developers` section. -->
 
 ```typescript title="/beyond/sdk.js"
 > ssh gm@beyond.tech -p 3000
