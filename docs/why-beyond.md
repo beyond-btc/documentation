@@ -52,7 +52,7 @@ void Shutdown(void* parg)
 
 ## The Dawn of Inscriptions: 2023
 
-In 2023, the Bitcoin ecosystem embraced a revolutionary concept: [inscriptions](https://unchained.com/blog/bitcoin-inscriptions-ordinals). This game-changing innovation elevated Bitcoin from merely a store of value (SoV) to a fully functional and programmable financial ecosystem (known as [BTCFi](https://www.ignasdefi.com/p/ordinals-and-btc-defi-start-here)), capable of supporting applications across many fields from [decentralized finance](https://www.coinbase.com/learn/crypto-basics/what-is-defi) to [real-world asset](https://www.binance.com/en/research/analysis/real-world-assets-state-of-the-market) tokenization, digital art, and _beyond._
+In 2023, the Bitcoin ecosystem embraced a revolutionary concept: [inscriptions](https://unchained.com/blog/bitcoin-inscriptions-ordinals). This game-changing innovation elevated Bitcoin from merely a store of value ([SoV](https://bitcoin.com/get-started/is-bitcoin-a-store-of-value/)) to a fully functional and programmable financial ecosystem (known as [BTCFi](https://www.ignasdefi.com/p/ordinals-and-btc-defi-start-here)), capable of supporting applications across many fields from [Decentralized Finance](https://www.coinbase.com/learn/crypto-basics/what-is-defi) to [Real-World Asset](https://www.binance.com/en/research/analysis/real-world-assets-state-of-the-market) tokenization, digital art, and _beyond._
 
 By embedding data directly into Bitcoin's transactions, inscriptions have unlocked a new layer of utility on the Bitcoin network itself, in addition to the massively popular [$BTC](https://coinmarketcap.com/currencies/bitcoin) token. This leap forward not only diversifies Bitcoin's use cases but also strengthens its position as a foundational pillar in the broader blockchain space, showcasing its potential to be as versatile and programmable as other modern protocols.
 
@@ -60,7 +60,7 @@ You may wonder, how do these inscriptions work? Imagine you could take a tiny pi
 
 And how do we make sure each of these "book pages" are unique? This is where [ordinals](https://unchained.com/blog/bitcoin-inscriptions-ordinals) come into play. Ordinals are like giving every single satoshi, or book page, a serial number. Just like how every dollar bill has a unique number, every satoshi gets its own identifier, making it distinguishable from all others no matter who they belong to. This numbering system makes it possible to track, trade, and collect any satoshi, especially those with special stickers (inscriptions) attached to them.
 
-:::tip Why are inscriptions and Ordinals so important?
+:::note Why are inscriptions and Ordinals so important?
 
 Ordinals allow us to identify and track each satoshi, while inscriptions let us attach meaningful data to them. Together, they transform these satoshis from mere fractions of a Bitcoin into unique, programmable digital artifacts. This novel use introduces a whole new dimension to the Bitcoin network, leveraging its security and decentralization to support a flourishing ecosystem without altering Bitcoin’s foundational principles.
 
@@ -77,6 +77,6 @@ Looking ahead, [Beyond](https://beyond.tech) is leading the way into a new parad
 > - any other relevant numbers that support our product and rationale
 > - MAYBE, IF NOT ENOUGH BULLET POINTS: hint at "Beyond's edge" with unique Beyond stuff, like our `V2`? integrations in the pipeline? partnerships? NOTE: since our "edge" is going to be mostly technical though (multiple Bitcoin standards, better security, better UX, Aave integration for active locking of assets with passive yield...), I would not expand on it here, but rather in the "Protocol > Overview" article.
 
-Within this context, Beyond's mission is clear: to establish Bitcoin as the most reliable and secure gateway to decentralized finance (DeFi) [at a global scale](https://defillama.com/chains). The beginning of 2024 marked a significant milestone with the introduction of [Bitcoin ETF listings](https://justetf.com/en/how-to/invest-in-bitcoin.html) and a surge in institutional interest, highlighting Bitcoin's unmatched potential to foster a decentralized, interoperable, and compliant financial ecosystem.
+Within this context, Beyond's mission is clear: to establish Bitcoin as the most reliable and secure gateway to Decentralized Finance (DeFi) [at a global scale](https://defillama.com/chains). The beginning of 2024 marked a significant milestone with the introduction of [Bitcoin ETF listings](https://justetf.com/en/how-to/invest-in-bitcoin.html) and a surge in institutional interest, highlighting Bitcoin's unmatched potential to foster a decentralized, interoperable, and compliant financial ecosystem.
 
 This evolution from a digital store of value to a holistic on-chain economy deeply excites our team and community, as we build a future where financial innovation, inclusivity, decentralization, and security go hand in hand.
