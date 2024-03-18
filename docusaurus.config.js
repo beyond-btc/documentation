@@ -134,7 +134,7 @@ const config = {
             "aria-label": "𝕏 (Twitter)",
           },
           {
-            href: "https://connect.beyond.tech",
+            href: "https://join.beyond.tech",
             position: "right",
             className: "navbar-discord-link",
             "aria-label": "Discord",

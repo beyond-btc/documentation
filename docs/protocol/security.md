@@ -5,6 +5,10 @@ title: Security
 
 # Security
 
+> TODO: Magnus & Janus
+
+> _NOTE: the content below is not ours, just there to showcase some categories that we may include in this article_
+
 ## Smart Contracts
 
 Beyond utilizes smart contracts to implement the logic and rules for cross-chain token transfers. 
