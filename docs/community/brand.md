@@ -12,6 +12,6 @@ When mentioning Beyond on social media or on your website, please use the logos 
 - **Name**: `Beyond`, also stylized as `₿eyond` _(with the [₿ symbol](https://en.wikipedia.org/wiki/Bitcoin))_
 - **Tagline**: `Enabling the Bitcoin On-Chain Economy.`
 - **Color**: [`#ff6000`](https://coolors.co/000000-ff6000-ff6000-ff6000-ffffff)
-<!-- - **Fonts**: [Jet Brains Mono](https://jetbrains.com/lp/mono) & [Lorem Ipsum](https://lipsum.com) -->
+- **Fonts**: [Quantum](https://lipsum.com) for titles, [Lorem Ipsum](https://lipsum.com) for body text
 
 <DownloadCardList type="brand" />

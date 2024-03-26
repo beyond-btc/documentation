@@ -3,13 +3,13 @@ sidebar_position: 3
 title: Leaderboard
 ---
 
-# Airdrop Program
+# The Leaderboard
 
-Beyond will have a native token with various utilities. Around the same time of the Token Generation Event (TGE), we will launch the Beyond Leaderboard, a gamified Airdrop Program that rewards the most active users.
+Beyond is set to introduce a native token as we progress towards full decentralization and utility. Around the Token Generation Event (TGE), we will launch the `Leaderboard`, an open program that celebrates and rewards Beyond's most active users via community airdrops.
 
-For the time being, we would like to focus on building the best possible product before launching the token, and with it, the community airdrops. The specific info around the Leaderboard will remain a mystery for now, but we will mention: the more volume you bridge through Beyond, the higher you will climb it.
+Currently, the team's focus remains on perfecting the core product to ensure the best possible quality before introducing the token and the accompanying community airdrops. Details regarding the Leaderboard have not yet been announced, but we'll hint at this: your total volume on Beyond directly influences your position on the Leaderboard.
 
-We will keep you updated on the latest progress on [our socials](/community/socials.md)!
+Stay tuned to [our social channels](/community/socials) for the latest updates around the official Leaderboard launch!
 
 <!-- > _TODO: biz devs_
 
